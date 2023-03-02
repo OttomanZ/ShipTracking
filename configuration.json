@@ -1,0 +1,1 @@
+{'camera': [640, 480], 'manauto': False, 'minconfirm': 10, 'database_path': 'sqlite:///database.db', 'reiniciar': 1}
